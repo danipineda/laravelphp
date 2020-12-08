@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.body {
+    position: absolute;
+    top: -20px;
+    left: -40px;
+    right: -40px;
+    bottom: -40px;
+    width: auto;
+    height: 1200px;
+    background-image: url(https://i.pinimg.com/564x/62/98/c9/6298c9062d27ae97f168d4ac61f04d4a.jpg);
+    background-size: cover;
+    -webkit-filter: blur(5px);
+    z-index: 0;
+} 
